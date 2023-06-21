@@ -14,8 +14,6 @@ Me gusta estar al tanto de las últimas tendencias tecnológicas y siempre busco
 ## Contacto
 Si deseas comunicarte conmigo o colaborar en algún proyecto, puedes encontrarme en las siguientes redes:
 
-- [LinkedIn](https://www.linkedin.com/in/oliviacruz)
-- [Twitter](https://twitter.com/oliviacruz)
 - [Correo electrónico](mailto:al222011321@gmail.com)
 
 ¡Gracias por visitar mi perfil! Espero que disfrutes explorando mis proyectos y descubriendo mi pasión por el desarrollo de software y el análisis de datos.
