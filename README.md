@@ -1,7 +1,5 @@
 # Olivia de la Cruz Solís
 
-[![Profile Picture](profile_picture.jpg)](https://avatars.githubusercontent.com/u/90673933?v=4)
-
 ¡Hola! Soy Olivia de la Cruz Solís, una entusiasta del desarrollo de software y aspirante a analista de datos. Bienvenido/a a mi perfil de GitHub, donde puedes explorar mis proyectos y descubrir mi pasión por la tecnología.
 
 ## Sobre mí
