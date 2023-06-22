@@ -16,4 +16,11 @@ Si deseas comunicarte conmigo o colaborar en algún proyecto, puedes encontrarme
 
 - [Correo electrónico](mailto:al222011321@gmail.com)
 
+## 💻 GitHub Stats
+<p align="center">
+  <a href="#"><img alt="Luis Fernando Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=LuisFernandoDomingoGomez&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
+  <a href="#"><img alt="Luis Fernando Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoDomingoGomez&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
+<!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
+</p>
+
 ¡Gracias por visitar mi perfil! Espero que disfrutes explorando mis proyectos y descubriendo mi pasión por el desarrollo de software y el análisis de datos.
